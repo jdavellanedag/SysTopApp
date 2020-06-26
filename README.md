@@ -1,6 +1,6 @@
 ## Simple Study System Information App
 
-This is a electron app for viw system usage
+This is a electron app for view system usage
 
 ### Install
 
